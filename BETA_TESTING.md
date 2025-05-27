@@ -10,7 +10,7 @@ We're looking for enthusiastic users to help us test and improve JustDare before
 
 To participate in the beta testing program, please fill out our registration form:
 
-[Register for Beta Testing](https://docs.google.com/forms/d/e/1FAIpQLSeBl1_WJPRWwClB3wvxr64pSZPFFq5NH07N17r0crRYzBfdlw/viewform?usp=header)
+[Register for Beta Testing](https://forms.gle/v1pBn1L2wjWdN9nu6)
 
 ### What to Expect
 
@@ -28,7 +28,7 @@ To participate in the beta testing program, please fill out our registration for
 
 ## Questions?
 
-If you have any questions about the beta testing program, please reach out to our team through the registration form.
+If you have any questions about the beta testing program, please reach out to our team through justdare_official@proton.me.
 
 Thank you for your interest in helping us make JustDare even better!
 
