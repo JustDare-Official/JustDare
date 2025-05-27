@@ -1,5 +1,4 @@
 # JustDare
- 
 
 ## What is JustDare?
 
@@ -14,17 +13,21 @@ JustDare is a dynamic social platform that empowers users to create, share, and 
 - **Share Moments:** Upload photos and videos to showcase your completed dares.
 - **Community:** Engage with a growing community of adventurers and creators.
 - **Secure & Private:** Your data and privacy are protected.
- 
- 
+
+---
+
+## Features & Bugs Updates
+
+For the latest information on new features, upcoming improvements, and bug fixes, check out our [Features & Bugs News board](https://github.com/JustDare-Official/JustDare/blob/main/FEATURES_AND_BUGS.md).
+
+---
 
 ## Download & Releases
 
-Find the latest releases and download the app from the [Releases Page](https://github.com/yourusername/justdare/releases).
+Find the latest releases and download the app from the [Releases Page](https://github.com/JustDare-Official/JustDare/releases).
 
 ---
 
 ## Contact
 
 For support or inquiries, email us at [justdare_official@proton.me](mailto:justdare_official@proton.me)
-
- 
