@@ -16,6 +16,10 @@ Welcome to the Features & Bugs News board! Here you can find updates on new feat
 ## 🐞 Bug News List
 
 - **[May 2025]** _Known Issues:_
+  - Better visual states for when a user is logged in.
+  - Add proper login flow to tell user to relogin after registration.
+
+
   - Public Dares section Active Widget not showing Inactive **[Fixed in V1.0.1]**
   - Wallet widget not properly responsive for very small devices **[Fixed in V1.0.1]**
 
