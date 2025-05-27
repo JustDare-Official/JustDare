@@ -16,14 +16,17 @@ Welcome to the Features & Bugs News board! Here you can find updates on new feat
 ## 🐞 Bug News List
 
 - **[May 2025]** _Known Issues:_
-  - Public Dares section Active Widget not showing Inactive
-  - Wallet widdget not porperly responsive for really small devices
-  
+  - Public Dares section Active Widget not showing Inactive **[Fixed in V1.0.1]**
+  - Wallet widget not properly responsive for very small devices **[Fixed in V1.0.1]**
+
 ---
 
 ## 📝 Recent Updates
 
 - _[May 27, 2025]_ Initial version of this news board created.
+- _[May 27, 2025]_ Released JustDare Beta V1.0.1, fixing:
+  - Public Dares Active Widget not displaying Inactive state.
+  - Wallet widget responsiveness on very small devices.
 
 ---
 
