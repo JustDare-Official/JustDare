@@ -1,4 +1,5 @@
 # JustDare
+![Screenshot 2025-05-28 124958](https://github.com/user-attachments/assets/6afe5613-ed75-44bf-85e2-fdf4b70da5b6)
 
 ## What is JustDare?
 
