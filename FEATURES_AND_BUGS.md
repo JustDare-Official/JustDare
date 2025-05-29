@@ -16,6 +16,7 @@ Welcome to the Features & Bugs News board! Here you can find updates on new feat
 ## 🐞 Bug News List
 
 - **[May 2025]** _Known Issues:_
+- Add a Reconnect button for participants listening feature i participants page
 
 
 ---
