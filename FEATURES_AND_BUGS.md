@@ -16,12 +16,8 @@ Welcome to the Features & Bugs News board! Here you can find updates on new feat
 ## 🐞 Bug News List
 
 - **[May 2025]** _Known Issues:_
-  - Better visual states for when a user is logged in.
-  - Add proper login flow to tell user to relogin after registration.
-
-
-  - Public Dares section Active Widget not showing Inactive **[Fixed in V1.0.1]**
-  - Wallet widget not properly responsive for very small devices **[Fixed in V1.0.1]**
+  - Need to show the number of participants and viewers in the public
+  - 
 
 ---
 
@@ -29,8 +25,10 @@ Welcome to the Features & Bugs News board! Here you can find updates on new feat
 
 - _[May 27, 2025]_ Initial version of this news board created.
 - _[May 27, 2025]_ Released JustDare Beta V1.0.1, fixing:
-  - Public Dares Active Widget not displaying Inactive state.
-  - Wallet widget responsiveness on very small devices.
+   - Better visual states for when a user is logged in.**[Fixed in V1.0.1]**
+  - Add proper login flow to tell user to relogin after registration.**[Fixed in V1.0.1]**
+  - Public Dares section Active Widget not showing Inactive **[Fixed in V1.0.1]**
+  - Wallet widget not properly responsive for very small devices **[Fixed in V1.0.1]**
 
 ---
 
