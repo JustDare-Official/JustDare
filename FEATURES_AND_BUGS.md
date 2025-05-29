@@ -16,7 +16,7 @@ Welcome to the Features & Bugs News board! Here you can find updates on new feat
 ## 🐞 Bug News List
 
 - **[May 2025]** _Known Issues:_
-  - Need to show the number of participants and viewers in the public dare card
+  - Show the number of participants and viewers in the public dare card
   - 
 
 ---
