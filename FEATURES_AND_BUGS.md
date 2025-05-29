@@ -22,7 +22,7 @@ Welcome to the Features & Bugs News board! Here you can find updates on new feat
 
 ## 📝 Recent Updates
 
-- _[May 28, 2025]_ 
+- _[May 28, 2025]_ This is the V1.0.2 Update
   - Show the number of participants and viewers in the public dare card **[Fixed in V1.0.2]**
   - Footer X account addition **[Fixed in V1.0.2]**
   - Copy button and logic for the wallets public key **[Fixed in V1.0.2]**
