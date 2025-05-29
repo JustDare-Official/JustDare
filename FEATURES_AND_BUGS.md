@@ -16,14 +16,18 @@ Welcome to the Features & Bugs News board! Here you can find updates on new feat
 ## 🐞 Bug News List
 
 - **[May 2025]** _Known Issues:_
-  - Show the number of participants and viewers in the public dare card
-  - Footer X account addition
-  - Copy button and logic for the wallets public key
+
 
 ---
 
 ## 📝 Recent Updates
 
+- _[May 28, 2025]_ 
+  - Show the number of participants and viewers in the public dare card **[Fixed in V1.0.2]**
+  - Footer X account addition **[Fixed in V1.0.2]**
+  - Copy button and logic for the wallets public key **[Fixed in V1.0.2]**
+ 
+    
 - _[May 27, 2025]_ Initial version of this news board created.
 - _[May 27, 2025]_ Released JustDare Beta V1.0.1, fixing:
    - Better visual states for when a user is logged in.**[Fixed in V1.0.1]**
