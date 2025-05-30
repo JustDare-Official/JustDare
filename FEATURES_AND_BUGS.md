@@ -10,6 +10,7 @@ Welcome to the Features & Bugs News board! Here you can find updates on new feat
   
 - **Upcoming:**
   - Private Rooms [tentative ... V2]
+  - In App Tutorial [tentative ... V2]
 
 ---
 
