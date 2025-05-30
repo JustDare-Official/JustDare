@@ -17,14 +17,19 @@ Welcome to the Features & Bugs News board! Here you can find updates on new feat
 ## 🐞 Bug News List
 
 - **[May 2025]** _Known Issues:_
-- Add a Reconnect button for participants listening feature i participants page
-- Swipe down refresh
-- Copy button not working on android
+- N/A
 
 
 ---
 
 ## 📝 Recent Updates
+
+- _[May 30, 2025]_ This is the V1.0.3 Update
+  - Add a Reconnect button for participants listening feature i participants page **[Fixed in V1.0.3]**
+  - Swipe down refresh **[Fixed in V1.0.3]**
+  - Copy button not working on android  **[Fixed in V1.0.3]**
+  - Footer update added Features Md **[Fixed in V1.0.3]**
+
 
 - _[May 28, 2025]_ This is the V1.0.2 Update
   - Show the number of participants and viewers in the public dare card **[Fixed in V1.0.2]**
