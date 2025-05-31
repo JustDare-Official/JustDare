@@ -22,6 +22,7 @@ Welcome to the Features & Bugs News board! Here you can find updates on new feat
 - restart app button.
 - Participating Dares Cards still show Active even though they have ended | Harminize Viewer card to match apps design
 - dedicated restart button for hard restarts [participant timer and reminder]
+- make viewer media for self video take videos from my library instead on request media.
 
 
 ---
