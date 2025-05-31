@@ -21,6 +21,7 @@ Welcome to the Features & Bugs News board! Here you can find updates on new feat
 - Reminder notificiation and setting for connection drops
 - restart app button.
 - Participating Dares Cards still show Active even though they have ended | Harminize Viewer card to match apps design
+- dedicated restart button for hard restarts [participant timer and reminder]
 
 
 ---
