@@ -20,7 +20,7 @@ Welcome to the Features & Bugs News board! Here you can find updates on new feat
 - State indicator when client drops connection to signalling server
 - Reminder notificiation and setting for connection drops
 - restart app button.
-- Participating Dares Cards still show Active even though they have ended | Harminize Viewer card to match apps design
+- Participating Dares Cards still show Active even though they have ended | Harmonize Viewer card to match apps design
 - dedicated restart button for hard restarts [participant timer and reminder]
 - make viewer media for self video take videos from my library instead on request media.
 
