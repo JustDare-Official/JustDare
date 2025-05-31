@@ -19,6 +19,7 @@ Welcome to the Features & Bugs News board! Here you can find updates on new feat
 - **[May 2025]** _Known Issues:_
 - State indicator when client drops connection to signalling server
 - Reminder notificiation and setting for connection drops
+- restart app button.
 
 
 ---
