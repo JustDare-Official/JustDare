@@ -1,11 +1,15 @@
 # Server Connection
 
-This document will be updated to inform users about the current status of the server (up or down).
+To check the current status of the Just Dare WebRTC Signaling Server, please use the following endpoint:
 
-- **Status:** <span style="font-size:1.2em">🟢</span> **Online**
- 
----
+**Health Check Endpoint:** [https://server.justdare.app/health](https://server.justdare.app/health)
 
-Update this file as needed to communicate server availability to users. Use:
-- <span style="font-size:1.2em">🟢</span> **Online** for server up
-- <span style="font-size:1.2em">🔴</span> **Offline** for server down
+**Sample Response:**
+```json
+{
+  "status": "OK",
+  "timestamp": "2025-10-29T16:29:51.049Z",
+  "version": "1.0.4",
+  "uptime": 21363.443434722,
+  "server": "Just Dare WebRTC Signaling Server"
+}
