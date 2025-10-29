@@ -28,9 +28,10 @@ To participate in the beta testing program, please fill out our registration for
 
 ## Questions?
 
-If you have any questions about the beta testing program, please reach out to our team through justdare_official@proton.me.
+If you have any questions about the beta testing program, please reach out to our team through support@justdare.app.
 
 Thank you for your interest in helping us make JustDare even better!
 
 ---
 *Join us in revolutionizing the way people dare and challenge each other online!*
+
