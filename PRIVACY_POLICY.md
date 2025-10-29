@@ -22,5 +22,5 @@ Our services are not intended for children under the age of 13. We do not knowin
 We may update this Privacy Policy from time to time. Changes will be posted in this document with an updated effective date. We encourage you to review this policy periodically for any changes.
 
 ## Contact Us
-If you have any questions, concerns, or requests regarding this Privacy Policy or our data practices, please contact us at: justdare_official@proton.me
+If you have any questions, concerns, or requests regarding this Privacy Policy or our data practices, please contact us at: support@justdare.app
 
