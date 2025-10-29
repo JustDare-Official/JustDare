@@ -16,7 +16,7 @@ We do **not** collect, store, or process any personal information or data from o
 Your privacy is completely protected as we operate with zero data collection. Your activity and information remain entirely private and are never transmitted to us or any third party.
 
 ## Children’s Privacy
-Our services are not intended for children under the age of 18. We do not knowingly collect personal information from children under 13. If you believe we have collected such information, please contact us so we can take appropriate action.
+Our services are not intended for children under the age of 18. We do not knowingly collect personal information from children under 18. If you believe we have collected such information, please contact us so we can take appropriate action.
 
 ## Changes to This Policy
 We may update this Privacy Policy from time to time. Changes will be posted in this document with an updated effective date. We encourage you to review this policy periodically for any changes.
