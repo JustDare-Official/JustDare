@@ -24,7 +24,7 @@ For the latest information on new features, upcoming improvements, and bug fixes
 ---
 
 ## Download & Releases
-Latest Version:    **🔽 [DOWNLOAD JustDare Beta V1.0.3 NOW](https://github.com/JustDare-Official/JustDare/releases/download/v1.0.3-beta/JustDare.V1.0.3.Beta.apk)**  
+Latest Version:    **🔽 [DOWNLOAD JustDare Beta V1.0.4 NOW](https://github.com/JustDare-Official/JustDare/releases/download/v1.0.3-beta/JustDare.V1.0.4.Beta.apk)**  
 
 > ~ N/b Only trust releases from this Github [Releases Page](https://github.com/JustDare-Official/JustDare/releases).
 
@@ -32,4 +32,4 @@ Latest Version:    **🔽 [DOWNLOAD JustDare Beta V1.0.3 NOW](https://github.com
 
 ## Contact
 
-For support or inquiries, email us at [justdare_official@proton.me](mailto:justdare_official@proton.me)
+For support or inquiries, email us at [justdare_official@proton.me](mailto:support@justdare.app)
