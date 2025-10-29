@@ -63,7 +63,7 @@ We may update these Terms from time to time. We will notify you of any material 
 These Terms are governed by and construed in accordance with the laws of the jurisdiction in which JustDare operates, without regard to its conflict of law principles.
 
 ## 14. Contact Us
-If you have any questions about these Terms, please contact us at [justdare_official@proton.me](mailto:justdare_official@proton.me).
+If you have any questions about these Terms, please contact us at [justdare_official@proton.me](mailto:support@justdare.app).
 
 ---
 
