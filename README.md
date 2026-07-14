@@ -1,4 +1,5 @@
 # JustDare
+
 ![Screenshot 2025-05-28 124958](https://github.com/user-attachments/assets/6afe5613-ed75-44bf-85e2-fdf4b70da5b6)
 
 ## What is JustDare?
@@ -27,7 +28,15 @@ For the latest information on new features, upcoming improvements, and bug fixes
 
 ## Download & Releases
 
-Latest Version: **🔽 [DOWNLOAD JustDare Beta V1.0.5 NOW](https://github.com/JustDare-Official/JustDare/releases/download/v1.0.5-Beta/JustDare.V1.0.5.Beta.apk)**
+JustDare is now available on all three platforms! 🎉
+
+| Platform | Download |
+|---|---|
+| 🍎 **iOS** | [Download from App Store](https://apps.apple.com/us/app/justdare/id6785072836) |
+| 🤖 **Android** | [Download APK](https://github.com/JustDare-Official/JustDare/releases/download/1.0.5-Beta/JustDare.v1.0.5.apk) |
+| 💻 **Windows PC** | [Download from Microsoft Store](https://apps.microsoft.com/detail/9NWZQX6839FL) |
+
+> 📋 View all releases: [GitHub Releases Page](https://github.com/JustDare-Official/JustDare/releases/tag/1.0.5-Beta)
 
 > ⚠️ Only trust releases from this GitHub [Releases Page](https://github.com/JustDare-Official/JustDare/releases).
 
