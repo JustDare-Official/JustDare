@@ -30,11 +30,25 @@ For the latest information on new features, upcoming improvements, and bug fixes
 
 JustDare is now available on all three platforms! 🎉
 
-| Platform | Download |
+### 💻 Windows PC
+
+| Method | Link |
 |---|---|
-| 🍎 **iOS** | [Download from App Store](https://apps.apple.com/us/app/justdare/id6785072836) |
-| 🤖 **Android** | [Download APK](https://downloads.justdare.app/JustDare_1.0.5v7.apk) |
-| 💻 **Windows PC** | [Download from Microsoft Store](https://apps.microsoft.com/detail/9NWZQX6839FL) |
+| ⚡ **Direct Download** (`.exe`) | [JustDare_1.0.5v7.exe](https://downloads.justdare.app/JustDare_1.0.5v7.exe) |
+| 🏪 **Microsoft Store** | [Download from Microsoft Store](https://apps.microsoft.com/detail/9NWZQX6839FL) |
+
+### 🤖 Android
+
+| Method | Link |
+|---|---|
+| ⚡ **Direct Download** (`.apk`) | [JustDare_1.0.5v7.apk](https://downloads.justdare.app/JustDare_1.0.5v7.apk) |
+| 🏪 **Google Play** | [Download from Google Play](https://play.google.com/store/apps/details?id=com.byt3land.justdare) |
+
+### 🍎 iOS
+
+| Method | Link |
+|---|---|
+| 🏪 **App Store** | [Download from App Store](https://apps.apple.com/us/app/justdare/id6785072836) |
 
 > 📋 View all releases: [GitHub Releases Page](https://github.com/JustDare-Official/JustDare/releases/tag/1.0.5-Beta)
 
